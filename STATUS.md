@@ -1,3 +1,3 @@
-- [![签到状态](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-05-24 13:58:46
+- [![签到状态](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-05-25 14:24:34
 - 开始执行帐号1
 - 设备ID不存在，需要二次设备校验
